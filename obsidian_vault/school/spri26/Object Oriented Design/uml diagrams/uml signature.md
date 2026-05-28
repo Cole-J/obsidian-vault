@@ -1,0 +1,1 @@
+if a class has a signature, the data type of the attributes or methods is shown

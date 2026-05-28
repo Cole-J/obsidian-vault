@@ -1,0 +1,5 @@
+
+type
+printenv PATH
+
+execlp

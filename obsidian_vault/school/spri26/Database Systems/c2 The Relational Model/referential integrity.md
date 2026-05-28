@@ -1,0 +1,1 @@
+an attribute in referencing relation should be an attribute in referenced relation

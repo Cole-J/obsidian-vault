@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "2a2f8f3b1626d6b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb5fa5d5f1b57a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4ccceff46f74a97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-Computer Science start tab.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-Computer Science start tab"
+            }
+          },
+          {
+            "id": "b7809d9935bf7b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Optimizing the Conversion between an E-R Model and a Relational Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optimizing the Conversion between an E-R Model and a Relational Model"
+            }
+          },
+          {
+            "id": "ff104fcb0c877ec0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527152326.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260527152326"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52194a7a4341a287",
+    "type": "split",
+    "children": [
+      {
+        "id": "3245891bc817d8e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "311548e8c05f4f5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b8817b5043d31f06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "apened",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94722bfc1967438d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9805c002651a90e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "30054974e9a6b781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ab03505e3e2b093",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "school/spri26/Object Oriented Design/dynamic memory allocation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for dynamic memory allocation"
+            }
+          },
+          {
+            "id": "d0d0d153fb1c98bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "school/spri26/Object Oriented Design/dynamic memory allocation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from dynamic memory allocation"
+            }
+          },
+          {
+            "id": "da52c793881c8e79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aef02c4bd01b9fa2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b431d14d49024f5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "school/spri26/Object Oriented Design/dynamic memory allocation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of dynamic memory allocation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f4ccceff46f74a97",
+  "lastOpenFiles": [
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/-Entity-Relationship (E-R) Model start tab.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Conversion to Relational Schemas.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Optimizing the Conversion between an E-R Model and a Relational Model.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527152326.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526130024.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526120236.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526120114.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/-Database Design and the E-R Model start tab.md",
+    "school/spri26/Database Systems/-Database Systems and Design start tab.md",
+    "-Computer Science start tab.md",
+    "Strong and Weak Entity Sets in an E-R Diagram.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Components of an E-R Diagram (for CSCI330).md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Atomic or Composite Attributes.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Single-values or Multi-valued Attributes.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/What is an E-R Diagram.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Representing Derived Attributes in an E-R Model Diagram.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Representing Composite Attributes in an E-R Model Diagram.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Mapping Cardinality in an E-R Model Diagram.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Mapping Cardinalities.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Keys of an Entity Set.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Derived Attributes.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Entity and Entity Sets.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Relationship and Relationship Sets.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Attributes.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Representing Multi-valued Attributes in an E-R Model Diagram.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204924.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204751.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204729.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204225.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204113.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527203428.png",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/Six Phases of Database Design.md",
+    "school/spri26/Computer Organization II/threads (chapter 11)/mutex and cond.md",
+    "school/spri26/Computer Organization II/-w9d2.md",
+    "school/spri26/Computer Organization II/threads (chapter 11)/sync problem, readers and writers.md",
+    "school/spri26/Object Oriented Design/patterns/-design patterns start tab.md",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model",
+    "school/spri26/Database Systems/c3-5 SQL/c3 Intro to SQL",
+    "school/spri26/Database Systems/c3-5 SQL/c3 Intro to SQL/old",
+    "school/spri26/Database Systems/c3-5 SQL/c4 Intermediate SQL/old",
+    "school/spri26/Database Systems/c6 DB Design and the E-R Model/old",
+    "school/spri26/Database Systems/c1 DB Fundamentals/old",
+    "school/spri26/Database Systems/z old stuff",
+    "school/spri26/Object Oriented Design/patterns/2 structural/pics",
+    "school/spri26/Object Oriented Design/patterns/pictures"
+  ]
+}
