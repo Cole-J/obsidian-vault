@@ -1,4 +1,7 @@
 
+[[SP26 CSCI 347 Computer Organization II 202620]]
+	General thoughts on the class.
+
 [[-Database Fundamentals start tab]]
 	Covers the fundamental ideas behind databases. Why we use them, what for, and the general structure of one.
 

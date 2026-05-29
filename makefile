@@ -3,7 +3,7 @@
 MSG="update"
 
 # git shorthand
-git g:
+push:
 	git add .
 	git commit -m $(MSG)
 	git push

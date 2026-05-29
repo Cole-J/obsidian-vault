@@ -4,47 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5fa5d5f1b57a73",
+        "id": "0c49d20578a91710",
         "type": "tabs",
         "children": [
           {
-            "id": "f4ccceff46f74a97",
+            "id": "f944b39d19c74a0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-Computer Science start tab.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "-Computer Science start tab"
-            }
-          },
-          {
-            "id": "b7809d9935bf7b8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Optimizing the Conversion between an E-R Model and a Relational Model.md",
+                "file": "School/spri26/Object Oriented Design/SP26 CSCI 345 Object Oriented Design 202620.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimizing the Conversion between an E-R Model and a Relational Model"
-            }
-          },
-          {
-            "id": "ff104fcb0c877ec0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527152326.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260527152326"
+              "title": "SP26 CSCI 345 Object Oriented Design 202620"
             }
           }
         ]
@@ -209,53 +183,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "f4ccceff46f74a97",
+  "active": "f944b39d19c74a0d",
   "lastOpenFiles": [
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/-Entity-Relationship (E-R) Model start tab.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Conversion to Relational Schemas.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Optimizing the Conversion between an E-R Model and a Relational Model.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527152326.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526130024.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526120236.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526120114.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/-Database Design and the E-R Model start tab.md",
-    "school/spri26/Database Systems/-Database Systems and Design start tab.md",
-    "-Computer Science start tab.md",
-    "Strong and Weak Entity Sets in an E-R Diagram.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Components of an E-R Diagram (for CSCI330).md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Atomic or Composite Attributes.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Single-values or Multi-valued Attributes.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/What is an E-R Diagram.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Representing Derived Attributes in an E-R Model Diagram.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Representing Composite Attributes in an E-R Model Diagram.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Mapping Cardinality in an E-R Model Diagram.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Mapping Cardinalities.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Keys of an Entity Set.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Derived Attributes.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Entity and Entity Sets.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Relationship and Relationship Sets.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Attributes.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Representing Multi-valued Attributes in an E-R Model Diagram.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204924.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204751.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204729.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204225.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527204113.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527203428.png",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/Six Phases of Database Design.md",
-    "school/spri26/Computer Organization II/threads (chapter 11)/mutex and cond.md",
-    "school/spri26/Computer Organization II/-w9d2.md",
-    "school/spri26/Computer Organization II/threads (chapter 11)/sync problem, readers and writers.md",
-    "school/spri26/Object Oriented Design/patterns/-design patterns start tab.md",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures",
-    "school/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model",
-    "school/spri26/Database Systems/c3-5 SQL/c3 Intro to SQL",
-    "school/spri26/Database Systems/c3-5 SQL/c3 Intro to SQL/old",
-    "school/spri26/Database Systems/c3-5 SQL/c4 Intermediate SQL/old",
+    "School/spri26/Object Oriented Design/-days/-w8d1.md",
+    "School/spri26/Object Oriented Design/-days/-w7d3.md",
+    "School/spri26/Object Oriented Design/-days/-w7d1.md",
+    "School/spri26/Object Oriented Design/-days/-w4d3.md",
+    "School/spri26/Object Oriented Design/-days/-w5d1.md",
+    "School/spri26/Object Oriented Design/-days/-w4d2.md",
+    "School/spri26/Object Oriented Design/-days/-w4d1.md",
+    "School/spri26/Object Oriented Design/-days/-w3d4.md",
+    "School/spri26/Object Oriented Design/-days/-w3d1.md",
+    "School/spri26/Object Oriented Design/-days/-w3d3.md",
+    "School/spri26/Object Oriented Design/-days/-w2d3.md",
+    "School/spri26/Object Oriented Design/-days/-w2d4.md",
+    "School/spri26/Object Oriented Design/-days/-w2d2.md",
+    "School/spri26/Object Oriented Design/-days/-w2d1.md",
+    "School/spri26/Object Oriented Design/-days/-w1d3.md",
+    "School/spri26/Object Oriented Design/-days/-w1d1.md",
+    "School/spri26/Object Oriented Design/z older stuff/dynamic memory allocation.md",
+    "School/spri26/Object Oriented Design/z older stuff/static methods and fields.md",
+    "School/spri26/Object Oriented Design/z older stuff/stack vs heap.md",
+    "School/spri26/Object Oriented Design/z older stuff/WP Paper Assignment.md",
+    "School/spri26/Object Oriented Design/z older stuff/Untitled.md",
+    "School/spri26/Object Oriented Design/z older stuff/UML diagrams.md",
+    "School/spri26/Object Oriented Design/z older stuff/UML.md",
+    "School/spri26/Object Oriented Design/uml diagrams/uml standard member access modifiers.md",
+    "School/spri26/Object Oriented Design/z older stuff/standard uml member access modifiers.md",
+    "School/spri26/Object Oriented Design/uml diagrams/uml association and dependency.md",
+    "School/wint25",
+    "School/fall25",
+    "General Information",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528190249.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528193231.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528192656.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528192457.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528191239.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528190945.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260527152326.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526130024.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526120236.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260526120114.png",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures",
+    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model",
+    "School/spri26/Database Systems/c3-5 SQL/c3 Intro to SQL",
+    "School/spri26/Database Systems/c3-5 SQL/c3 Intro to SQL/old",
+    "School/spri26/Database Systems/c3-5 SQL/c4 Intermediate SQL/old",
     "school/spri26/Database Systems/c6 DB Design and the E-R Model/old",
-    "school/spri26/Database Systems/c1 DB Fundamentals/old",
-    "school/spri26/Database Systems/z old stuff",
-    "school/spri26/Object Oriented Design/patterns/2 structural/pics",
-    "school/spri26/Object Oriented Design/patterns/pictures"
+    "School/spri26/Database Systems/c1 DB Fundamentals/old"
   ]
 }

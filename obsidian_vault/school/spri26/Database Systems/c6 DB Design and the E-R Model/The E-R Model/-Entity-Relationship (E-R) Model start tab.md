@@ -15,6 +15,8 @@ Constructing E-R Diagrams:
 - [[What is an E-R Diagram]]
 - [[Components of an E-R Diagram (for CSCI330)]]
 - [[Strong and Weak Entity Sets in an E-R Diagram]]
+- [[Participation of an Entity Set in a Relationship Set in an E-R Diagram]]
+- [[Recursive Relationship Sets]]
 
 Converting an E-R Diagram to the Relational Model:
 - [[Conversion to Relational Schemas]]

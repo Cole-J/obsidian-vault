@@ -1,0 +1,1 @@
+Cole Js Obsidian Vault

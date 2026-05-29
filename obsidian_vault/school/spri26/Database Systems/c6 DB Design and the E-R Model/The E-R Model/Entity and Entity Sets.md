@@ -8,3 +8,5 @@ An Entity Set is a set of entities of the same type that share the same properti
 Example of an Entity Set
 ![[Pasted image 20260526120114.png|188]]
 
+Each Entity has [[Attributes]], with each Entity in an Entity Set having the same attributes.
+In the above, instructor_ID and instructor_name are attributes.

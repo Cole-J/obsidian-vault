@@ -1,5 +1,0 @@
-
--private
-+public
-#protected
-~default
