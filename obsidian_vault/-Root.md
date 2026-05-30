@@ -7,3 +7,4 @@ Understand that these notes are created and read using obsidian, so keep that in
 	Some general information to get you started here if your not me.
 
 [[-Computer Science start tab]]
+	The start of all my CS stuff. Most of this will link class notes.

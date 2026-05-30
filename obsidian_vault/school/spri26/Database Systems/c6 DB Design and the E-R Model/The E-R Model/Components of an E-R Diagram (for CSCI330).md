@@ -17,4 +17,7 @@ General Components
 - Undivided Rectangles: Descriptive Attribute of a Relationship Set
 
 Strong and Weak Entity Sets
-- 
+
+
+Low resolution, but all of the diagram elements used in CSCI330.
+![[Pasted image 20260528203215.png]]

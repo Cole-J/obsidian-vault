@@ -8,7 +8,7 @@
 [[-uml class diagram start tab]]
 	A standardized system to show the relationships between objects in a design phase or high level view of the system.
 
-[[-design patterns start tab]]
+[[-Design Patterns start tab]]
 	Links to specific patterns. Requires understanding of the prior topic and ideas.
 
 
