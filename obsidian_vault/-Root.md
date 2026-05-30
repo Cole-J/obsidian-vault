@@ -10,3 +10,5 @@ Understand that these notes are created and read using obsidian, so keep that in
 	The start of all my CS stuff. Most of this will link class notes.
 
 from my laptop
+
+from my pc
