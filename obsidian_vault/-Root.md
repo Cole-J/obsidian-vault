@@ -8,13 +8,3 @@ Understand that these notes are created and read using obsidian, so keep that in
 
 [[-Computer Science start tab]]
 	The start of all my CS stuff. Most of this will link class notes.
-
-from my laptop 2
-
-from my pc 2
-
-from taskbar
-
-changing config on laptop
-2
-huh
