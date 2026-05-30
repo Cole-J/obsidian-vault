@@ -28,3 +28,4 @@ run:# pull
 	@# Passing the path using forward slashes works perfectly in cmd.exe and avoids all backslash escaping hell
 	@cmd.exe /c start "" /wait "C:/Users/colem/AppData/Local/Programs/Obsidian/Obsidian.exe" "C:/Users/colem/Documents/obsidian_vault_g"
 	@echo "Obsidian closed. Saving work..."
+	@$(MAKE) push
