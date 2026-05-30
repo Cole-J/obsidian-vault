@@ -1,5 +1,4 @@
 
-
 # default commit message
 MSG= "vault update $(shell date '+%Y-%m-%d %H:%M:%S')"
 
