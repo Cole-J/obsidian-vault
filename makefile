@@ -2,13 +2,11 @@
 # default commit message
 MSG= "vault update $(shell date '+%Y-%m-%d %H:%M:%S')"
 
-
+# catch any empty message
 default:
 	@echo "default"
 
 .PHONY: push pull sync run
-
-# make sure to intial add before
 
 pull:
 	@echo "fetching and merging changes"
@@ -23,8 +21,8 @@ push:
 sync: pull push
 
 run: pull
-	@echo "Opening Obsidian..."
-	@# Passing the path using forward slashes works perfectly in cmd.exe and avoids all backslash escaping hell
+	@echo "opening obsidian"
 	@cmd.exe /c start "" /wait "C:/Users/colem/AppData/Local/Programs/Obsidian/Obsidian.exe" "C:/Users/colem/Documents/obsidian_vault_g"
-	@echo "Obsidian closed. Saving work..."
+	@echo "obsidian closed"
+	@echo "saving"
 	@$(MAKE) push
