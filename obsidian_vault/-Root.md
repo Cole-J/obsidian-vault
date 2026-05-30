@@ -9,4 +9,5 @@ Understand that these notes are created and read using obsidian, so keep that in
 [[-Computer Science start tab]]
 	The start of all my CS stuff. Most of this will link class notes.
 
-adding autosave attempt 6
+adding autosave attempt 10
+told git who i was
