@@ -10,9 +10,9 @@ default:
 
 # make sure to intial add before
 
-push:
+pull:
 	@echo "fetching and merging changes"
-	git pull origin main --rebase
+	git pull origin main
 
 push:
 	@echo "saving and pushing local changes"
