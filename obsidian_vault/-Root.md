@@ -11,3 +11,5 @@ Understand that these notes are created and read using obsidian, so keep that in
 
 adding autosave attempt 10
 told git who i was
+
+setup?
