@@ -12,3 +12,5 @@ Understand that these notes are created and read using obsidian, so keep that in
 from my laptop 2
 
 from my pc 2
+
+from taskbar
