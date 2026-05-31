@@ -1,4 +1,8 @@
 
+[[SP26 CSCI 345 Object Oriented Design 202620]]
+
+[[-Using Java (for OOD) start tab]]
+
 [[-Principles of OOD start tab]]
 	Principles and ideals we should follow when designing code that is object based.
 

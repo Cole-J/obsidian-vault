@@ -1,5 +1,5 @@
 
-[[SP26 CSCI 347 Computer Organization II 202620]]
+[[SP26 CSCI 330 Database Systems]]
 	General thoughts on the class.
 
 [[-Database Fundamentals start tab]]

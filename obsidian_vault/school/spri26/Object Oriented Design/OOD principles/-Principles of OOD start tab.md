@@ -1,5 +1,5 @@
 
-[[OOD principle, separation and encapsulation]]
+[[OOD Principle, Separation and Encapsulation|Separation and Encapsulation]]
 
 [[OOD principle, program to an interface rather than implementations]]
 

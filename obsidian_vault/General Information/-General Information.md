@@ -5,3 +5,7 @@ Currently, the bulk of what's on here is my school notes. To my CSCI347 prof, th
 (move this part to csci347 once its sorted)
 
 [[Using Obsidian]]
+
+current projects in the background
+website
+graphics engine

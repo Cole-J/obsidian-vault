@@ -1,11 +1,11 @@
 
 p419-512
 
-[[class constructors in java]]
+[[Class Constructors in Java]]
 
-[[static variables and static methods in java]]
+[[Static Variables and Static Methods in Java]]
 
-[[main methods in java]]
+[[Main Methods in Java]]
 
 [[wrapper classes in java]]
 

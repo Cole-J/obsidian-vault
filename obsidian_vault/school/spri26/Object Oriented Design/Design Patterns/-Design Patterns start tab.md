@@ -1,20 +1,22 @@
 
 Based on the book: Design Patterns, Elements of Reusable Object-Oriented Software.
 
-[[-creational patterns start tab]]
+[[-Creational Design Patterns start tab|Creational Design Patterns]] declare ways to manage how objects are created.
 
-[[-Structural Patterns start tab]]
-	Structural Patterns define ways for objects to be structured.
-[[-Behavioral Design Patterns start tab]]
-	Behavioral patterns define ways that one object interacts with another.
+[[-Structural Design Patterns start tab|Structural Design Patterns]] declare ways to manage how classes and objects are composed in their hierarchy.
+
+[[-Behavioral Design Patterns start tab|Behavioral Design Patterns]] declare ways to manage how objects communicate and distribute responsibilities between objects.
 
 
-The  pattern is used to define
 
-This make it so that
+Template for adding new DPs
 
-uml
+	The _ pattern is used to define
 
-discussion of uml units
+	This make it so that
 
-vid link
+	uml diagram
+
+	discussion of uml units
+
+	vid link
