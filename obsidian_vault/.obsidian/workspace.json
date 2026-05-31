@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "473cd101885ee603",
+        "id": "f884f2a9acc97c12",
         "type": "tabs",
         "children": [
           {
-            "id": "b1bb6c2193246300",
+            "id": "7d8ee6a55e344885",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-General Information/Using Obsidian to Git Repo Syncing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Using Obsidian to Git Repo Syncing"
+              "title": "New tab"
             }
           }
         ]
@@ -183,19 +179,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "b1bb6c2193246300",
+  "active": "311548e8c05f4f5f",
   "lastOpenFiles": [
+    "School/spri26/Object Oriented Design/object relationships/-object relationships start tab.md",
+    "School/spri26/Object Oriented Design/-Object Oriented Design start tab.md",
+    "School/spri26/Object Oriented Design/OOD Principles/-Principles of OOD start tab.md",
+    "School/spri26/Object Oriented Design/java book/-Using Java (for OOD) start tab.md",
+    "School/spri26/Object Oriented Design/java book/chap6 more on objects and methods/-More on Objects and Methods start tab.md",
+    "School/spri26/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
+    "School/spri26/Object Oriented Design/Design Patterns/1 Creational/-Creational Design Patterns start tab.md",
+    "School/spri26/Object Oriented Design/Design Patterns/2 Structural/-Structural Design Patterns start tab.md",
+    "School/spri26/Object Oriented Design/Design Patterns/2 Structural/Design Pattern 6 Proxy.md",
+    "School/spri26/Object Oriented Design/Design Patterns/2 Structural/Design Pattern 5 Adapter.md",
+    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
+    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 7 State.md",
+    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 3 Observer.md",
+    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 1 Iterator.md",
+    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 2 Listener.md",
+    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 4 Strategy.md",
+    "Computer Science and Engineering/-Computer Science start tab.md",
+    "-Root.md",
     "-General Information/Using Obsidian to Git Repo Syncing.md",
     "Projects/-Projects start tab.md",
     "-General Information/Untitled",
     "Projects/mywebsite/Using Git Pages",
-    "School/spri26/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
-    "School/spri26/Object Oriented Design/Design Patterns/2 Structural/-Structural Design Patterns start tab.md",
-    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
-    "School/spri26/Object Oriented Design/Design Patterns/1 Creational/-Creational Design Patterns start tab.md",
-    "School/spri26/Object Oriented Design/-Object Oriented Design start tab.md",
-    "Computer Science and Engineering/-Computer Science start tab.md",
-    "-Root.md",
     "-General Information/-General Information.md",
     "Projects/mywebsite/Using hmtl css and javascript for Website Design",
     "Projects/mywebsite",
@@ -210,17 +217,6 @@
     "School/wint25",
     "School/fall25",
     "School/spri26/Database Systems/c3-5 SQL/-Using SQl (for DB systems) start tab.md",
-    "School/spri26/Computer Organization II/GDB/gdb ulimit to debug seg faults.md",
-    "School/spri26/Computer Organization II/GDB/gdb debug hanging run.md",
-    "School/spri26/Computer Organization II/GDB/gdb basic commands.md",
-    "School/spri26/Computer Organization II/GDB/csci347 gdb.md",
-    "School/spri26/Computer Organization II/what is an OS.md",
-    "school/spri26/Computer Organization II/-Computer Systems, Unix start tab.md",
-    "School/spri26/Computer Organization II/-days/-w8d2.md",
-    "School/spri26/Database Systems/-Database Systems and Design start tab.md",
-    "School/spri26/Database Systems/SP26 CSCI 330 Database Systems.md",
-    "School/spri26/Object Oriented Design/java book/chap6 more on objects and methods/-More on Objects and Methods start tab.md",
-    "School/spri26/Object Oriented Design/java book/chap6 more on objects and methods/enumeration as a class in java.md",
     "School/spri26/Object Oriented Design/UML Diagrams/Pictures/Pasted image 20260514174608.png",
     "School/spri26/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529121224.png",
     "School/spri26/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529125247.png",
