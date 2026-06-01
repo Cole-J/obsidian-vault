@@ -1,5 +1,5 @@
 
-[[-Computer Systems 2, Unix Environment and C Standard IO start tab]]
+[[-Computer Systems 2, Unix Environment, C Standard IO, and threading start tab]]
 
 [[-Database Systems and Design start tab]]
 	Study of Databases, Database Management Systems, and Database Design. Includes the Relational Model, E-R Model, and using SQL.

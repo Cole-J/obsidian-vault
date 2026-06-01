@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/spri26/Computer Organization II/-days/-w9d4.md",
+                "file": "-w10d1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-w9d4"
+              "title": "-w10d1"
+            }
+          },
+          {
+            "id": "32a8130e66c69d5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/spri26/Computer Organization II/Threads and Concurrency/thread control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thread control"
+            }
+          },
+          {
+            "id": "a6ec0cb1e0a80e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/spri26/Computer Organization II/-Computer Systems 2, Unix Environment, C Standard IO, and threading start tab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "-Computer Systems 2, Unix Environment, C Standard IO, and threading start tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +212,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d8ee6a55e344885",
+  "active": "32a8130e66c69d5e",
   "lastOpenFiles": [
-    "School/spri26/Computer Organization II/-days/-w9d2.md",
+    "School/spri26/Computer Organization II/Threads and Concurrency/thread synchronization.md",
+    "School/spri26/Computer Organization II/-Computer Systems 2, Unix Environment, C Standard IO, and threading start tab.md",
+    "Computer Science and Engineering/-Computer Science start tab.md",
+    "School/spri26/Computer Organization II/Threads and Concurrency/thread control.md",
+    "Amdahl's Law.md",
+    "-w10d1.md",
     "School/spri26/Computer Organization II/-days/-w9d4.md",
+    "School/spri26/Computer Organization II/-days/-w9d2.md",
     "School/spri26/Object Oriented Design/object relationships/-object relationships start tab.md",
     "School/spri26/Object Oriented Design/-Object Oriented Design start tab.md",
     "School/spri26/Object Oriented Design/OOD Principles/-Principles of OOD start tab.md",
@@ -203,18 +238,12 @@
     "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 1 Iterator.md",
     "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 2 Listener.md",
     "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 4 Strategy.md",
-    "Computer Science and Engineering/-Computer Science start tab.md",
     "-Root.md",
     "-General Information/Using Obsidian to Git Repo Syncing.md",
-    "Projects/-Projects start tab.md",
     "-General Information/Untitled",
     "Projects/mywebsite/Using Git Pages",
-    "-General Information/-General Information.md",
     "Projects/mywebsite/Using hmtl css and javascript for Website Design",
     "Projects/mywebsite",
-    "Computer Science and Engineering/-CS Languages start tab.md",
-    "Computer Science and Engineering/-Computer Systems start tab.md",
-    "School/spri26/Computer Organization II/-Computer Systems 2, Unix Environment and C Standard IO start tab.md",
     "Game Stuff",
     "Projects",
     "School/fall25/Computer Systems I",
