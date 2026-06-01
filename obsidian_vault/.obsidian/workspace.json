@@ -35,8 +35,7 @@
               "title": "-w9d4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,15 +197,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "6e6cd89f0ff533d1",
+  "active": "7d8ee6a55e344885",
   "lastOpenFiles": [
+    "School/spri26/Computer Organization II/-days/-w9d4.md",
     "-w10d1.md",
     "School/spri26/Computer Organization II/-Computer Systems 2, Unix Environment, C Standard IO, and threading start tab.md",
     "School/spri26/Computer Organization II/Threads and Concurrency/thread control.md",
     "School/spri26/Computer Organization II/Threads and Concurrency/thread synchronization.md",
     "Computer Science and Engineering/-Computer Science start tab.md",
     "Amdahl's Law.md",
-    "School/spri26/Computer Organization II/-days/-w9d4.md",
     "School/spri26/Computer Organization II/-days/-w9d2.md",
     "School/spri26/Object Oriented Design/object relationships/-object relationships start tab.md",
     "School/spri26/Object Oriented Design/-Object Oriented Design start tab.md",
