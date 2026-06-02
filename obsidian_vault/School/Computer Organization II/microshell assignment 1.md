@@ -32,7 +32,7 @@ looking at microshell code
 
 	execlp cannot parse, try 'ls -l ant' or similar if ant is folder name
 
-[[School/spri26/Computer Organization II/-days/-w2d2]] for info on "" ref
+[[School/Computer Organization II/-days/-w2d2]] for info on "" ref
 " " is an arg ''
 
 /home/phil/.bin/ush on cow (~/347/src/linux-04[522]$ /home)

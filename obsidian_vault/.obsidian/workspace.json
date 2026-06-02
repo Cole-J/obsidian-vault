@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f884f2a9acc97c12",
+        "id": "738cc97c1f9d44df",
         "type": "tabs",
         "children": [
           {
-            "id": "7d8ee6a55e344885",
+            "id": "f58f18817eda339a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-w10d1.md",
+                "file": "School/Object Oriented Design/java book/-Using Java (for OOD) start tab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-w10d1"
-            }
-          },
-          {
-            "id": "6e6cd89f0ff533d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/spri26/Computer Organization II/-days/-w9d4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "-w9d4"
+              "title": "-Using Java (for OOD) start tab"
             }
           }
         ]
@@ -197,53 +183,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d8ee6a55e344885",
+  "active": "f58f18817eda339a",
   "lastOpenFiles": [
-    "School/spri26/Computer Organization II/-days/-w9d4.md",
-    "-w10d1.md",
-    "School/spri26/Computer Organization II/-Computer Systems 2, Unix Environment, C Standard IO, and threading start tab.md",
-    "School/spri26/Computer Organization II/Threads and Concurrency/thread control.md",
-    "School/spri26/Computer Organization II/Threads and Concurrency/thread synchronization.md",
-    "Computer Science and Engineering/-Computer Science start tab.md",
-    "Amdahl's Law.md",
-    "School/spri26/Computer Organization II/-days/-w9d2.md",
-    "School/spri26/Object Oriented Design/object relationships/-object relationships start tab.md",
-    "School/spri26/Object Oriented Design/-Object Oriented Design start tab.md",
-    "School/spri26/Object Oriented Design/OOD Principles/-Principles of OOD start tab.md",
-    "School/spri26/Object Oriented Design/java book/-Using Java (for OOD) start tab.md",
-    "School/spri26/Object Oriented Design/java book/chap6 more on objects and methods/-More on Objects and Methods start tab.md",
-    "School/spri26/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
-    "School/spri26/Object Oriented Design/Design Patterns/1 Creational/-Creational Design Patterns start tab.md",
-    "School/spri26/Object Oriented Design/Design Patterns/2 Structural/-Structural Design Patterns start tab.md",
-    "School/spri26/Object Oriented Design/Design Patterns/2 Structural/Design Pattern 6 Proxy.md",
-    "School/spri26/Object Oriented Design/Design Patterns/2 Structural/Design Pattern 5 Adapter.md",
-    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
-    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 7 State.md",
-    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 3 Observer.md",
-    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 1 Iterator.md",
-    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 2 Listener.md",
-    "School/spri26/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 4 Strategy.md",
     "-Root.md",
-    "-General Information/Using Obsidian to Git Repo Syncing.md",
+    "-General Information/Using Obsidian.md",
+    "-General Information/-General Information.md",
+    "Game Stuff/-Games start tab.md",
+    "Projects/mywebsite/Using hmtl css and javascript for Website Design/-Using html, css, javascript start tab.md",
+    "Projects/mywebsite/Using Git Pages/-Git Pages.md",
+    "School/Functional Programming and Formal Languages/-Formal Languages start tab.md",
+    "School/Computer Systems I/-Computer Systems 1 start tab.md",
+    "School/Functional Programming and Formal Languages/-Functional Programming start tab.md",
+    "School/Computer Organization II/-days/-w9d4.md",
+    "School/Computer Organization II/-w10d1.md",
+    "School/Computer Organization II/-Computer Systems 2, Unix Environment, C Standard IO, and threading start tab.md",
+    "School/Computer Organization II/Threads and Concurrency/thread control.md",
+    "School/Computer Organization II/Threads and Concurrency/thread synchronization.md",
+    "Computer Science and Engineering/-Computer Science start tab.md",
+    "School/Computer Organization II/Threads and Concurrency/Amdahl's Law.md",
+    "School/Computer Organization II/-days/-w9d2.md",
+    "School/Object Oriented Design/object relationships/-object relationships start tab.md",
+    "School/Object Oriented Design/-Object Oriented Design start tab.md",
+    "School/Object Oriented Design/OOD Principles/-Principles of OOD start tab.md",
+    "School/Object Oriented Design/java book/-Using Java (for OOD) start tab.md",
+    "School/Object Oriented Design/java book/chap6 more on objects and methods/-More on Objects and Methods start tab.md",
+    "School/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
+    "School/Object Oriented Design/Design Patterns/1 Creational/-Creational Design Patterns start tab.md",
+    "School/Object Oriented Design/Design Patterns/2 Structural/-Structural Design Patterns start tab.md",
+    "School/Object Oriented Design/Design Patterns/2 Structural/Design Pattern 6 Proxy.md",
     "-General Information/Untitled",
     "Projects/mywebsite/Using Git Pages",
     "Projects/mywebsite/Using hmtl css and javascript for Website Design",
     "Projects/mywebsite",
     "Game Stuff",
     "Projects",
-    "School/fall25/Computer Systems I",
-    "School/wint25/Functional Programming and Formal Languages",
+    "School/Computer Systems I",
+    "School/Functional Programming and Formal Languages",
     "School/wint25",
     "School/fall25",
-    "School/spri26/Object Oriented Design/UML Diagrams/Pictures/Pasted image 20260514174608.png",
-    "School/spri26/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529121224.png",
-    "School/spri26/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529125247.png",
-    "School/spri26/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529132901.png",
-    "School/spri26/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529133829.png",
-    "School/spri26/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529123320.png",
-    "School/spri26/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260526100042.png",
-    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528203215.png",
+    "School/Object Oriented Design/UML Diagrams/Pictures/Pasted image 20260514174608.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529121224.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529125247.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529132901.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529133829.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529123320.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260526100042.png",
+    "School/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528203215.png",
     "Pasted image 20260528203140.png",
-    "School/spri26/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528190249.png"
+    "School/Database Systems/c6 DB Design and the E-R Model/The E-R Model/Pictures/Pasted image 20260528190249.png"
   ]
 }
