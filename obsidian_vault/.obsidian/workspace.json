@@ -11,10 +11,14 @@
             "id": "521e31f23ee78ca3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "WTA.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "WTA"
             }
           }
         ]
@@ -181,6 +185,8 @@
   },
   "active": "521e31f23ee78ca3",
   "lastOpenFiles": [
+    "WTA.md",
+    "Projects/WTA Projects",
     "School/Computer Organization II/-Computer Systems 2, Unix Environment, C Standard IO, and Threading start tab.md",
     "Computer Science and Engineering/-Computer Science and Engineering start tab.md",
     "Computer Science and Engineering/-CS Languages start tab.md",
@@ -207,7 +213,6 @@
     "School/Object Oriented Design/java book/chap6 more on objects and methods/-More on Objects and Methods start tab.md",
     "School/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
     "School/Object Oriented Design/Design Patterns/1 Creational/-Creational Design Patterns start tab.md",
-    "School/Object Oriented Design/Design Patterns/2 Structural/-Structural Design Patterns start tab.md",
     "-General Information/Untitled",
     "Projects/mywebsite/Using Git Pages",
     "Projects/mywebsite/Using hmtl css and javascript for Website Design",
@@ -216,7 +221,6 @@
     "Projects",
     "School/Computer Systems I",
     "School/Functional Programming and Formal Languages",
-    "School/wint25",
     "School/Object Oriented Design/UML Diagrams/Pictures/Pasted image 20260514174608.png",
     "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529121224.png",
     "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260529125247.png",
