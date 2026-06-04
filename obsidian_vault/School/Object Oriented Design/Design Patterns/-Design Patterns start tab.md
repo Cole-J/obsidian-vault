@@ -11,12 +11,12 @@ Based on the book: Design Patterns, Elements of Reusable Object-Oriented Softwar
 
 Template for adding new DPs
 
-	The _ pattern is used to define
+The _ pattern is used to define
 
-	This make it so that
+This make it so that
 
-	uml diagram
+uml diagram
 
-	discussion of uml units
+discussion of uml units
 
-	vid link
+vid link
