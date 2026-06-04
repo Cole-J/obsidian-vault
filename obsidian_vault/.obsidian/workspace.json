@@ -53,14 +53,12 @@
             "id": "efc4af53380fccfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "School/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260603154932.png"
               },
-              "icon": "lucide-file",
-              "title": "-Design Patterns start tab"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260603154932"
             }
           }
         ],
@@ -226,18 +224,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "efc4af53380fccfc",
+  "active": "311548e8c05f4f5f",
   "lastOpenFiles": [
+    "School/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
     "School/Object Oriented Design/Design Patterns/1 Creational/-Creational Design Patterns start tab.md",
     "School/Object Oriented Design/Design Patterns/1 Creational/Design Pattern 9 Singleton.md",
-    "Pasted image 20260603171143.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260603171143.png",
     "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 8 Template Method.md",
-    "Pasted image 20260603154932.png",
-    "Pasted image 20260603155831.png",
-    "Pasted image 20260603164424.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260603154932.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260603155831.png",
+    "School/Object Oriented Design/Design Patterns/Pictures/Pasted image 20260603164424.png",
     "Pasted image 20260603165710.png",
     "School/Object Oriented Design/Design Patterns/2 Structural/-Structural Design Patterns start tab.md",
-    "School/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
     "School/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
     "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 4 Strategy.md",
     "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 7 State.md",
