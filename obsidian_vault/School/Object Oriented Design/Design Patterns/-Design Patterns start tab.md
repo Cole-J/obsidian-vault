@@ -3,7 +3,7 @@ Based on the book: Design Patterns, Elements of Reusable Object-Oriented Softwar
 
 [[-Creational Design Patterns start tab|Creational Design Patterns]] declare ways to manage how objects are created.
 
-[[-Structural Design Patterns start tab|Structural Design Patterns]] declare ways to manage how classes and objects are composed in their hierarchy.
+[[-Structural Design Patterns start tab|Structural Design Patterns]] declare ways to manage how objects are structured and accessed in a programs hierarchy.
 
 [[-Behavioral Design Patterns start tab|Behavioral Design Patterns]] declare ways to manage how objects communicate and distribute responsibilities between objects.
 

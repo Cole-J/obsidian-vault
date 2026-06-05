@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9f03eb7e4ff81d9",
+        "id": "ec05d6c3f5fd8456",
         "type": "tabs",
         "children": [
           {
-            "id": "5a02a727da202773",
+            "id": "1b5796f626bb5531",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/-Relational Database Design start tab.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "-Relational Database Design start tab"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "9805c002651a90e3",
@@ -179,45 +183,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "311548e8c05f4f5f",
+  "active": "1b5796f626bb5531",
   "lastOpenFiles": [
-    "School/Object Oriented Design/Design Patterns/3 Behavioral/Pasted image 20260604202518.png",
-    "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 3 Observer.md",
-    "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 2 Listener.md",
-    "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 1 Iterator.md",
-    "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 7 State.md",
-    "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 4 Strategy.md",
-    "School/Object Oriented Design/Design Patterns/2 Structural/Design Pattern 5 Adapter.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Boyce-Codd Normal Form (BCNF or 3.5 NF) of Database Design.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/-Relational Database Design start tab.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/-Database Design and the E-R Model start tab.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/The E-R Model/-Entity-Relationship (E-R) Model start tab.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Six Phases of Database Design.md",
+    "School/Database Systems/-Database Systems and Design start tab.md",
+    "School/Database Systems/c3-5 SQL/-Using SQl (for DB systems) start tab.md",
+    "School/Database Systems/c2 The Relational Model/-Relation Model and Algebra (for DB systems) start tab.md",
+    "School/Database Systems/c1 DB Fundamentals/-Database Fundamentals start tab.md",
+    "School/Database Systems/SP26 CSCI 330 Database Systems.md",
+    "-Root.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Trivial FDs.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Third Normal Form (3NF) of Database Design.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Simple example of FD, F, and F+.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Second Normal Form (2NF) of Database Design.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Repetition or Co-incidence of Data in a Relational Model Table.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/More generalized example of FD, F, X+, along with superkeys.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Lossy vs Lossless Decomposition, Types of Table Decomposition.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Functional Dependencies, Repetition in the Relational Model.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/First Normal Form (1NF) of Database Design.md",
+    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Finding all Functional Dependencies, Closure of F.md",
     "School/Object Oriented Design/Design Patterns/2 Structural/Design Pattern 6 Proxy.md",
-    "School/Object Oriented Design/Design Patterns/2 Structural/-Structural Design Patterns start tab.md",
-    "School/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
-    "School/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
-    "School/Object Oriented Design/Design Patterns/1 Creational/-Creational Design Patterns start tab.md",
+    "School/Object Oriented Design/Design Patterns/2 Structural/Design Pattern 5 Adapter.md",
     "School/Object Oriented Design/Design Patterns/1 Creational/Design Pattern 9 Singleton.md",
     "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 8 Template Method.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Boyce-Codd Normal Form (BCNF or 3.5 NF) of Database Design.md",
+    "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 7 State.md",
+    "School/Object Oriented Design/Design Patterns/3 Behavioral/Pasted image 20260604202518.png",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603185301.png",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Lossy vs Lossless Decomposition, Types of Table Decomposition.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/-Relational Database Design start tab.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Third Normal Form (3NF) of Database Design.md",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604194216.png",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604193504.png",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604193236.png",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Finding all Functional Dependencies, Closure of F.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Functional Dependencies, Repetition in the Relational Model.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Trivial FDs.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/More generalized example of FD, F, X+, along with superkeys.md",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604192323.png",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/First Normal Form (1NF) of Database Design.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Second Normal Form (2NF) of Database Design.md",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604191012.png",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604190628.png",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603190755.png",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603190822.png",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603191140.png",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Simple example of FD, F, and F+.md",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Repetition or Co-incidence of Data in a Relational Model Table.md",
     "School/Object Oriented Design/Design Patterns/1 Creational/Untitled",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design",
     "Projects/WTA Projects",

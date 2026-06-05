@@ -1,7 +1,7 @@
 
 This is the Root Note, all others are linked from here. 
 
-Understand that these notes are created and read using obsidian, so keep that in mind if you are using other tools to view this as links or embeds will not work properly.
+Understand that these notes are created and read using obsidian, so keep that in mind if you are using other tools to view this as links or embeds will not work properly. The hidden .obsidian directory is used to store this vaults metadata.
 
 Some [[-General Information|General Information]] to get you started here if your not me (or just if I forget).
 
