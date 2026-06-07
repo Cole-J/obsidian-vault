@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ec05d6c3f5fd8456",
+        "id": "e6c8e050e4e9d3f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1b5796f626bb5531",
+            "id": "3dad5fee571f3733",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "-Design Patterns start tab"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b5796f626bb5531",
+  "active": "311548e8c05f4f5f",
   "lastOpenFiles": [
-    "School/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
+    "Projects/-Projects start tab.md",
+    "Projects/WTA.md",
     "School/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
+    "School/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
     "School/Object Oriented Design/Design Patterns/2 Structural/-Structural Design Patterns start tab.md",
     "School/Object Oriented Design/Design Patterns/1 Creational/-Creational Design Patterns start tab.md",
     "School/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 4 Strategy.md",
@@ -209,8 +207,6 @@
     "-Root.md",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Trivial FDs.md",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Third Normal Form (3NF) of Database Design.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Simple example of FD, F, and F+.md",
-    "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Second Normal Form (2NF) of Database Design.md",
     "School/Object Oriented Design/Design Patterns/3 Behavioral/Pasted image 20260604202518.png",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603185301.png",
     "School/Database Systems/c6-7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604194216.png",
