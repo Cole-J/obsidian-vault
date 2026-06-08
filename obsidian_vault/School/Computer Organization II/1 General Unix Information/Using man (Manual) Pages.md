@@ -1,4 +1,3 @@
-
 man section 1: user commands
 	man man
 	man ls

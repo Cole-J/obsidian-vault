@@ -1,5 +1,6 @@
 
-[[-Computer Systems 2, Unix Environment, C Standard IO, and Threading start tab]]
+[[-Computer Systems 2, UNIX Environment, C Standard IO, Processes, and Threading start tab]]
+
 
 [[-Database Systems and Design start tab]]
 	Study of Databases, Database Management Systems, and Database Design. Includes the Relational Model, E-R Model, and using SQL.
@@ -9,3 +10,7 @@
 
 [[-CS Languages start tab]]
 
+[[-Definitions start tab]]
+
+debugging
+[[-Using GDB for debugging start tab]]
