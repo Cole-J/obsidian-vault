@@ -1,9 +1,7 @@
 
 [[SP26 CSCI 347 Computer Organization II 202620]]
 
-In the class we used [[-Using GDB for debugging start tab|GDB]] for debugging our C code.
-
-[[-Using GNU make for Terminal Shorthand's|GNU make]]
+In the class we used [[-Using GNU GDB for debugging start tab|GNU GDB]] and [[-Using GNU make for Terminal Shorthand's|GNU make]] for debugging or processing our C programs.
 
 The following notes are based on the book "Advanced Programming in the UNIX Environment by W. Richard Stevens; Stephen A. Rago" and on the classes lectures.
 
@@ -25,6 +23,7 @@ c5
 [[-C Standard IO start tab]]
 
 c6
+[[-System Data Files and Information start tab]]
 
 c7 8 9 13
 [[-Process Information start tab]]

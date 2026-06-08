@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d462d407ca317d3",
+        "id": "261e262e28e35a68",
         "type": "tabs",
         "children": [
           {
-            "id": "64bad4dd9c6fd003",
+            "id": "46171cf76c6e25de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "School/Computer Organization II/-Computer Systems 2, UNIX Environment, C Standard IO, Processes, and Threading start tab.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "-Computer Systems 2, UNIX Environment, C Standard IO, Processes, and Threading start tab"
             }
           }
         ]
@@ -179,34 +183,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "64bad4dd9c6fd003",
+  "active": "46171cf76c6e25de",
   "lastOpenFiles": [
+    "School/Computer Organization II/GDB/-Using GNU GDB for debugging start tab.md",
+    "School/Computer Organization II/-Computer Systems 2, UNIX Environment, C Standard IO, Processes, and Threading start tab.md",
+    "School/Computer Organization II/Assignment notes/UNIX MicroShell/UNIX MicroShell.md",
+    "-Root.md",
+    "School/Computer Organization II/7-9 13 Processes/-Process Information start tab.md",
+    "School/Computer Organization II/6 System Data Files/-System Data Files and Information start tab.md",
+    "Computer Science and Engineering/-Computer Science and Engineering start tab.md",
+    "School/Computer Organization II/6 System Data Files/Other Data Files.md",
+    "School/Computer Organization II/6 System Data Files/System Identification and Current Host.md",
+    "School/Computer Organization II/6 System Data Files/The Group File.md",
+    "School/Computer Organization II/6 System Data Files/Time and Date Routines, Functions, and Structs.md",
+    "School/Computer Organization II/6 System Data Files/The Password File.md",
+    "School/Computer Organization II/6 System Data Files/Untitled/system information (chapter 6).md",
+    "School/Computer Organization II/-old/system types.md",
+    "School/Computer Organization II/-old/unix id's.md",
+    "School/Computer Organization II/6 System Data Files/Pictures",
+    "School/Computer Organization II/6 System Data Files/Pictures/Pasted image 20260608142000.png",
+    "School/Computer Organization II/6 System Data Files/Untitled",
     "School/Computer Organization II/10 Signals/-Signals start tab.md",
     "School/Computer Organization II/10 Signals/Untitled/using signals and custom signal handlers.md",
     "School/Computer Organization II/10 Signals/Untitled/signals basics (expanded) (chapter 10).md",
     "School/Computer Organization II/10 Signals/Untitled/signals.md",
     "School/Computer Organization II/10 Signals/Untitled/advanced signal interface.md",
-    "School/Computer Organization II/-Computer Systems 2, UNIX Environment, C Standard IO, Processes, and Threading start tab.md",
     "School/Computer Organization II/1 General Unix Information/Using man (Manual) Pages.md",
     "School/Computer Organization II/1 General Unix Information/Overview of a UNIX System.md",
     "School/Computer Organization II/1 General Unix Information/Library and System Calls.md",
     "School/Computer Organization II/1 General Unix Information/Definition, Operating System.md",
     "School/Computer Organization II/1 General Unix Information/Basic History of UNIX (and UNIX like) Operating Systems.md",
     "School/Computer Organization II/1 General Unix Information/-General UNIX Information start tab.md",
-    "School/Computer Organization II/-old/memory allocation.md",
-    "School/Computer Organization II/-old/problem with automatic variables.md",
-    "School/Computer Organization II/-old/resource limits.md",
-    "School/Computer Organization II/-old/setjmp and longjmp.md",
-    "School/Computer Organization II/6 System Data Files/system types.md",
-    "School/Computer Organization II/6 System Data Files/unix id's.md",
-    "School/Computer Organization II/6 System Data Files/system information (chapter 6).md",
-    "School/Computer Organization II/1 General Unix Information/Untitled/Basic UNIX.md",
-    "School/Computer Organization II/1 General Unix Information/Untitled/system calls specifics, returns and errors.md",
-    "School/Computer Organization II/1 General Unix Information/Untitled/system calls vs library calls.md",
-    "School/Computer Organization II/1 General Unix Information/Untitled/unix standards.md",
-    "School/Computer Organization II/1 General Unix Information/Untitled/manual pages.md",
-    "School/Computer Organization II/1 General Unix Information/(bash) Shell Commands.md",
-    "School/Computer Organization II/1 General Unix Information/Untitled/shell commands.md",
     "School/Computer Organization II/Assignment notes/UNIX MicroShell",
     "School/Computer Organization II/15 Interprocess Communication",
     "School/Computer Organization II/11-12 Threading/12 Thread Control",
@@ -215,8 +222,6 @@
     "School/Computer Organization II/7-9 13 Processes/13 Daemon Processes",
     "School/Computer Organization II/7-9 13 Processes/8 Process Control",
     "School/Computer Organization II/7-9 13 Processes/7 Process Environment",
-    "School/Computer Organization II/6 System Data Files",
-    "School/Computer Organization II/2 UNIX Standards",
     "School/Object Oriented Design/Design Patterns/3 Behavioral/Pasted image 20260604202518.png",
     "School/Database Systems/6 7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603185301.png",
     "School/Database Systems/6 7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604194216.png",
@@ -225,7 +230,6 @@
     "School/Database Systems/6 7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604192323.png",
     "School/Database Systems/6 7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604191012.png",
     "School/Database Systems/6 7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260604190628.png",
-    "School/Database Systems/6 7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603190755.png",
-    "School/Database Systems/6 7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603190822.png"
+    "School/Database Systems/6 7 DB Design and the E-R Model/Relational Database Design/Pictures/Pasted image 20260603190755.png"
   ]
 }

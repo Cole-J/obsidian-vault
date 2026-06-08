@@ -13,4 +13,4 @@
 [[-Definitions start tab]]
 
 debugging
-[[-Using GDB for debugging start tab]]
+[[-Using GNU GDB for debugging start tab]]
