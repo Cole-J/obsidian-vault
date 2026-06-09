@@ -11,7 +11,7 @@ chfn(1) # change information in the passwd file
 chsh(1) # change your login shell
 ```
 
-To access the passwd file in a C file, include <pwd.h>.
+To access the passwd file in a C file include <pwd.h>.
 ```
 #include <pwd.h>
 
@@ -19,9 +19,9 @@ struct passwd *getpwuid(uid_t uid); // gets a passwd struct from a user id
 
 struct passwd *getpwnam(const char *name); // gets a passwd struct from a user name
 
-struct passwd *getpwent(void); // returns a pointer to a passwd struct
+struct passwd *getpwent(void); // returns a pointer to the next passwd struct
 						     // returns null on error or end of file
-						     // it is both a open, and get next function
+						     // it is both an open, and get next function
 
 void setpwent(void); // rewinds the getpwent pointer back to the front of the file
 
@@ -41,6 +41,21 @@ struct passwd {      /* Linux version */
 ```
 DO NOT free the struct pointers retuned by the passwd functions, as they are not dynamically allocated. Freeing them frees the actual memory they store.
 
-The shadow File and shadow passwords.
-...
-//////////
+The shadow File ("/etc/shadow") stores the encrypted passwords of the users. The encryption algorithm is one way making it difficult to derive the original. The actual user passwords were originally stored in the passwd file however they were moved to this file to make it more difficult to obtain the users password.
+![[Pasted image 20260608184816.png]]
+The only POSIX requires fields are the users login name and encrypted password.
+
+To access the shadow file in a C file include <shadow.h>. Its functions are similar to the ones used to access the passwd file.
+```
+#include <shadow.h>
+
+struct spwd *getspnam(const char *name);
+// return: pointer if success, NULL on error
+
+struct spwd *getspent(void);
+// return: pointer if success, NULL on error
+
+void setspent(void);
+
+void endspent(void);
+```

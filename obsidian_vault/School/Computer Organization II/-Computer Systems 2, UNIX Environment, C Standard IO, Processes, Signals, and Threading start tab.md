@@ -1,9 +1,13 @@
 
 [[SP26 CSCI 347 Computer Organization II 202620]]
 
+Notice to my CSCI347 professor: this may contain pseudo code of class assignments (what you went over in class), but not the actual code of my implementation of the assignments.
+
 In the class we used [[-Using GNU GDB for debugging start tab|GNU GDB]] and [[-Using GNU make for Terminal Shorthand's|GNU make]] for debugging or processing our C programs.
 
-The following notes are based on the book "Advanced Programming in the UNIX Environment by W. Richard Stevens; Stephen A. Rago" and on the classes lectures.
+The following notes are based on the book "Advanced Programming in the UNIX Environment by W. Richard Stevens; Stephen A. Rago" (ISBN: 9780321638007) and on the classes lectures / class lecture slides.
+
+
 
 t3 6 7 8 10 11 12 13
 
