@@ -11,10 +11,14 @@
             "id": "ac2cf45ea3a02a62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "School/Computer Systems II, Organization/10 Signals/-Signals start tab.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "-Signals start tab"
             }
           }
         ]
@@ -179,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "311548e8c05f4f5f",
+  "active": "ac2cf45ea3a02a62",
   "lastOpenFiles": [
     "School/Computer Systems II, Organization/10 Signals/-Signals start tab.md",
     "School/Computer Systems II, Organization/11 12 Threading/12 Thread Control/-Thread Control start tab.md",

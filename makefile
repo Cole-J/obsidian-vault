@@ -12,13 +12,25 @@ pull:
 	@echo "fetching and merging changes"
 	git pull origin main
 
+pullf:
+	@echo "fetching and forcing changes"
+	git fetch origin
+	git reset --hard origin/main
+	git clean -fd
+
 push:
 	@echo "saving and pushing local changes"
 	git add .
 	-git commit -m $(MSG)
 	git push origin main
 
-sync: pull push
+pushf:
+	@echo "saving and forcing local changes"
+	git add .
+	git commit -m $(MSG)
+	git push -f origin main
+
+sync: pull pullf push pushf
 
 run: pull
 	@echo "opening obsidian"
