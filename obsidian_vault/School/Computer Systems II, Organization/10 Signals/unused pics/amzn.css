@@ -1,0 +1,325 @@
+@media amzn-mobi 
+{
+@font-face { font-family: "Courier New"; src: url(fonts/cour.ttf); }
+@font-face { font-family: "Courier New Bold"; src: url(fonts/courbd.ttf); }
+@font-face { font-family: "Courier New Italic"; src: url(fonts/couri.ttf); }
+@font-face { font-family: "Courier New Bold Italic"; src: url(fonts/courbi.ttf); }
+@font-face { font-family: "Times New Roman Italic"; src: url(fonts/timesi.ttf); }
+.italicAlt
+{
+	font-family: "Times New Roman Italic";
+	src: url(fonts/timesi.ttf);
+	font-style: italic;
+	font-size: small;
+}
+div.sidebar
+{
+	border-style: outset;
+	border-width: medium;
+	border-color: gray;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+.hide
+{
+display: block;
+}
+.indenthangingN
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	text-indent: -14pt;
+	margin-left: -35pt;
+	text-align: left;
+}
+.answerp
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -35pt;
+	text-indent: 0.002pt;
+}
+.indenthangingNP
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: 25pt;
+	text-indent: 0.002pt;
+	text-align: left;
+}
+.toc-section
+{
+	margin-top: 5pt;
+	margin-bottom: 4pt;
+	margin-left: 8pt;
+	text-align: left;
+	text-indent: 0.002pt;
+}
+.toc-section1
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: 12pt;
+	text-align: left;
+	text-indent: 0.002pt;
+}
+.toc-appendix
+{
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	text-align: left;
+	margin-left: -15pt;
+	text-indent: 0.002pt;
+}
+.toc-index
+{
+	margin-top: 10pt;
+	margin-bottom: 5pt;
+	text-align: left;
+	text-indent: 0.002pt;
+	margin-left: -15pt;
+}
+.toc-preface
+{
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	text-align: left;
+	margin-left: -15pt;
+	text-indent: 0.002pt;
+}
+.toc-chapter
+{
+	margin-top: 10pt;
+	margin-bottom: 5pt;
+	margin-left: -15pt;
+	text-align: left;
+	text-indent: 0.002pt;
+}
+.toc-chapter1
+{
+	margin-top: 10pt;
+	margin-bottom: 5pt;
+	margin-left: -10pt;
+	text-align: left;
+	text-indent: 0.002pt;
+}
+.question
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	text-indent: -22pt;
+	text-align: left;
+	margin-left: -25pt;
+}
+.indexmain
+{
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+	text-align: left;
+}
+.indexmain1
+{
+	margin-top: 14pt;
+	margin-bottom: 2pt;
+	text-align: left;
+}
+.indexsub
+{
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+	margin-left: 30pt;
+	text-indent: -15pt;
+	text-align: left;
+}
+.ex-caption
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	font-weight: bold;
+	text-align: left;
+	text-indent: 0.002pt;
+}
+.indenthangingB
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	text-indent: -12pt;
+	margin-left: -35pt;
+	text-align: left;
+}
+.indenthangingBB
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: 50pt;
+	text-indent: -20pt;
+	text-align: left;
+}
+.indenthangingN1
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -50pt;
+	text-indent: -22pt;
+	text-align: left;
+}
+.question1
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -35pt;
+	text-indent: -20pt;
+}
+.question2
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -45pt;
+	text-indent: -31pt;
+}
+.answer
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -35pt;
+	text-indent: -12pt;
+}
+.answer1
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -45pt;
+	text-indent: -25pt;
+}
+.answer2
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -55pt;
+	text-indent: -32pt;
+}
+.indenthangingNa
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: 50pt;
+	text-indent: -25pt;
+	text-align: left;
+}
+.indenthangingNa1
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: 50pt;
+	text-indent: -15pt;
+	text-align: left;
+}
+.bull-1
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -75pt;
+	text-indent: -40pt;
+	text-align: left;
+}
+.bull-1a
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -75pt;
+	text-indent: -35pt;
+	text-align: left;
+}
+.bull-P
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: 75pt;
+	text-align: left;
+}
+.bull-2
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -85pt;
+	text-indent: -50pt;
+	text-align: left;
+}
+.bull-3a
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -75pt;
+	text-indent: -55pt;
+	text-align: left;
+}
+.bull-3
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -75pt;
+	text-indent: -55pt;
+	text-align: left;
+}
+.bib
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -25pt;
+	text-indent: -15pt;
+}
+.bib1
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: 45pt;
+}
+.question-N
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: 50pt;
+	text-indent: -12pt;
+}
+.indenthangingN5
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -48pt;
+	text-indent: -12pt;
+	text-align: left;
+}
+.indenthangingNPa
+{
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	margin-left: -48pt;
+	text-align: left;
+	text-indent: 0.002pt;
+}
+.uln
+{
+	margin-top: 7pt;
+	margin-bottom: 4pt;
+	margin-left: -25pt;
+	text-indent: 0.002pt;
+}
+.uln-1
+{
+	margin-top: 7pt;
+	margin-bottom: 4pt;
+	margin-left: -25pt;
+	text-indent: 0.002pt;
+}
+.letter-spacing
+{
+	letter-spacing: 3px;
+}
+.blockquoteu
+{
+	margin-top: 7pt;
+	margin-bottom: 7pt;
+	margin-left: 100pt;
+	font-size: small;
+}
+}

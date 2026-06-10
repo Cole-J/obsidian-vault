@@ -3,6 +3,8 @@ the actual main call
 int main (int argc, char \*\*argv, char \*\*envp)
 
 remember argv is an array of strings with a nullptr at the end
+
+
 each string of form "name=value"
 ex:
 	HOME="/home/phil"
