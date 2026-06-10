@@ -11,10 +11,14 @@
             "id": "09ce4961ed39ad4b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "School (incomplete)/Computer Systems II, Organization/-Computer Systems 2, UNIX Environment, C Standard IO, Processes, Signals, and Threading start tab.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "-Computer Systems 2, UNIX Environment, C Standard IO, Processes, Signals, and Threading start tab"
             }
           }
         ]
@@ -181,6 +185,9 @@
   },
   "active": "09ce4961ed39ad4b",
   "lastOpenFiles": [
+    "School (incomplete)/Computer Systems II, Organization/10 Signals/-Signals start tab.md",
+    "School (incomplete)/Computer Systems II, Organization/10 Signals/Sending Signals in UNIX.md",
+    "School (incomplete)/Computer Systems II, Organization/15 Interprocess Communication/Pipelines/Untitled/implementing pipelines.md",
     "School (incomplete)/Object Oriented Design/UML Diagrams/uml association and dependency.md",
     "Untitled.base",
     "_Root.md",
@@ -209,9 +216,6 @@
     "School (incomplete)/Computer Systems II, Organization/7-9 13 Processes/old/path variable.md",
     "School (incomplete)/Computer Systems II, Organization/7-9 13 Processes/old/environment variables.md",
     "School (incomplete)/Computer Systems II, Organization/6 System Data Files/System Identification in UNIX.md",
-    "School (incomplete)/Computer Systems II, Organization/6 System Data Files/-System Data Files and Information start tab.md",
-    "School (incomplete)/Computer Systems II, Organization/6 System Data Files/Login Accounting in UNIX.md",
-    "School (incomplete)/Computer Systems II, Organization/10 Signals/-Signals start tab.md",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/Pictures/10fig13.jpg",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/Pictures/10fig16.jpg",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/unused pics/10fig03.jpg",
