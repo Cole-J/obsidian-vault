@@ -8,6 +8,7 @@ Notation:
 
 A quick formula for the total number of $FDs$ that are within the set $F^+$ is:
 - $2^n-1$ with n representing the number of columns of the table that F is derived from.
+- Notes that due to the definition of $FDs$ in $F$, this is also the number of possible superkeys in the initial table.
 
 The formula for computing the closure of $F$, otherwise known as $F^+$, is as follows:
 - Notes:

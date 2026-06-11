@@ -26,6 +26,9 @@ If it is an actual instance of repetition, it can by described as a [[Functional
 
 Once we find the tables Functional Dependencies, we can use those to find all possible Functional Dependencies of a set of attributes, or the closure. This is further described in [[Finding all Functional Dependencies, Closure of F]], and will be used for normalization.
 
+We can
+[[Finding All Candidate Keys Using Functional Dependences (for Database Systems and Design)]]
+
 3.
 
 There are 4 main Normal Forms used to normalize.
