@@ -8,7 +8,7 @@
 [[-Object Oriented Design start tab]]
 	Study of pre existing design patterns. Each pattern proposes a tested option for solving a specific programming challenge. Class was, and examples are in, Java.
 
-[[-CS Languages start tab]]
+[[-Computer Languages start tab]]
 
 [[-Definitions start tab]]
 
