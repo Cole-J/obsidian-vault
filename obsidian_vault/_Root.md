@@ -9,4 +9,5 @@ The [[-Computer Science and Engineering start tab|Computer Science and Engineeri
 
 The [[-Projects start tab|Projects]] note contains information on current or past project.
 
+
 The [[-Games start tab|Games]] section is just to store information on / about games I like to play.

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6d43154a519bb08e",
+        "id": "a9d861dc6a308d30",
         "type": "tabs",
         "children": [
           {
-            "id": "e32b2798fcb11437",
+            "id": "e28a033f1a204fab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Root.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_Root"
             }
           }
         ]
@@ -179,8 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "311548e8c05f4f5f",
+  "active": "e28a033f1a204fab",
   "lastOpenFiles": [
+    "School (incomplete)/Computer Systems II, Organization/7-9 13 Processes/13 Daemon Processes/-Daemon Processes start tab.md",
+    "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/Thread Identification in UNIX.md",
+    "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/-Threads start tab.md",
+    "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/Thread Creation in UNIX.md",
+    "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/Definition, Concurrency, Parallel and Distributed.md",
+    "School (incomplete)/Computer Systems II, Organization/11 12 Threading/-Threading and Thread Control start tab.md",
+    "School (incomplete)/Computer Systems II, Organization/-Computer Systems 2, UNIX Environment, C Standard IO, Processes, Signals, and Threading start tab.md",
+    "Computer Science and Engineering/-Computer Science and Engineering start tab.md",
+    "_Root.md",
+    "-General Information/-General Information.md",
+    "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 3 Observer.md",
+    "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
+    "School (incomplete)/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
+    "School (incomplete)/Object Oriented Design/-Object Oriented Design start tab.md",
     "Game Stuff/Space Engineers/Standardization/SE Key Binds.md",
     "Game Stuff/Space Engineers/Standardization/Pasted image 20260611191427.png",
     "Game Stuff/Minecraft/Information on Minecraft World, Survival Main.md",
@@ -188,8 +206,6 @@
     "Game Stuff/Minecraft/Minecraft World List.md",
     "Game Stuff/Space Engineers/Using Head Tracking in Space Engineers.md",
     "Game Stuff/Space Engineers/-Space Engineers (1 and 2) start tab.md",
-    "_Root.md",
-    "-General Information/-General Information.md",
     "-General Information/Using Obsidian.md",
     "-General Information/Using Obsidian to Github Repo Syncing.md",
     "-General Information/Computer Information/Main PC Tower Information/cjtower Port Information.md",
@@ -199,17 +215,6 @@
     "-General Information/Computer Information/Main PC Tower Information",
     "-General Information/Computer Information",
     "School (incomplete)/Database Systems and Design/3-5 SQL/c5 Nested SQL/-Conduction SQL Queries from Other Languages (for Database Systems and Design).md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c5 Nested SQL/old/video.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c3 Intro to SQL/old/updating values in some tuples.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c4 Intermediate SQL/old/outer join.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c4 Intermediate SQL/old/-intermediate sql (chapter 4).md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c3 Intro to SQL/old/-introduction to sql (chapter 3).md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c3 Intro to SQL/old/basic operations done in sql.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c3 Intro to SQL/-Introduction to SQL and SQL Concepts (for Database Systems and Design) start tab.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c3 Intro to SQL/old/how to modify a database using sql.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c3 Intro to SQL/old/insertion of tuples.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c3 Intro to SQL/old/deletion of tuples.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c3 Intro to SQL/old/other important features supported in sql.md",
     "Game Stuff/Minecraft",
     "Game Stuff/Head Tracking in Games",
     "Game Stuff/Space Engineers/SE2",
