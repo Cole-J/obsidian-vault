@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Root.md",
+                "file": "Projects/WTA pxe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Root"
+              "title": "WTA pxe"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "e28a033f1a204fab",
   "lastOpenFiles": [
+    "Projects/WTA.md",
+    "Projects/WTA pxe.md",
+    "_Root.md",
     "School (incomplete)/Computer Systems II, Organization/7-9 13 Processes/13 Daemon Processes/-Daemon Processes start tab.md",
     "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/Thread Identification in UNIX.md",
     "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/-Threads start tab.md",
@@ -193,7 +196,6 @@
     "School (incomplete)/Computer Systems II, Organization/11 12 Threading/-Threading and Thread Control start tab.md",
     "School (incomplete)/Computer Systems II, Organization/-Computer Systems 2, UNIX Environment, C Standard IO, Processes, Signals, and Threading start tab.md",
     "Computer Science and Engineering/-Computer Science and Engineering start tab.md",
-    "_Root.md",
     "-General Information/-General Information.md",
     "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 3 Observer.md",
     "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
@@ -211,10 +213,8 @@
     "-General Information/Computer Information/Main PC Tower Information/cjtower Port Information.md",
     "-General Information/Computer Information/-Computer Information start tab.md",
     "-General Information/Computer Information/Main PC Tower Information/cjlaptop Information.md",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/-Using SQl (for Database Systems and Design) start tab.md",
     "-General Information/Computer Information/Main PC Tower Information",
     "-General Information/Computer Information",
-    "School (incomplete)/Database Systems and Design/3-5 SQL/c5 Nested SQL/-Conduction SQL Queries from Other Languages (for Database Systems and Design).md",
     "Game Stuff/Minecraft",
     "Game Stuff/Head Tracking in Games",
     "Game Stuff/Space Engineers/SE2",
