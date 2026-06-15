@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Root.md",
+                "file": "Game Stuff/Abiotic Factor/Information on Abiotic Factor Save, SingleplayerMain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Root"
+              "title": "Information on Abiotic Factor Save, SingleplayerMain"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "14b61ef6c1400de2",
   "lastOpenFiles": [
-    "Projects/WTA pxe.md",
     "_Root.md",
+    "Game Stuff/Abiotic Factor/Information on Abiotic Factor Save, SingleplayerMain.md",
+    "Game Stuff/Abiotic Factor",
+    "Projects/WTA pxe.md",
     "School (incomplete)/Object Oriented Design/UML Diagrams/-uml class diagram start tab.md",
     "School (incomplete)/Object Oriented Design/-Object Oriented Design start tab.md",
     "School (incomplete)/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
@@ -212,7 +214,6 @@
     "Game Stuff/Space Engineers/Using Head Tracking in Space Engineers.md",
     "Game Stuff/Space Engineers/-Space Engineers (1 and 2) start tab.md",
     "-General Information/Using Obsidian.md",
-    "-General Information/Computer Information/Main PC Tower Information/cjtower Port Information.md",
     "-General Information/Computer Information/Main PC Tower Information",
     "-General Information/Computer Information",
     "Game Stuff/Minecraft",
@@ -221,7 +222,6 @@
     "Game Stuff/Space Engineers/SE1",
     "Game Stuff/Space Engineers",
     "School (incomplete)/Database Systems and Design/3-5 SQL/c5 Nested SQL/old",
-    "School (incomplete)/Database Systems and Design/2 The Relational Model/old",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/Pictures/10fig13.jpg",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/Pictures/10fig16.jpg",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/unused pics/10fig03.jpg",
