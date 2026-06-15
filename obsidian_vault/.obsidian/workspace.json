@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9d861dc6a308d30",
+        "id": "bfefac64bf5447b5",
         "type": "tabs",
         "children": [
           {
-            "id": "e28a033f1a204fab",
+            "id": "14b61ef6c1400de2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/WTA pxe.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "WTA pxe"
+              "title": "New tab"
             }
           }
         ]
@@ -183,11 +179,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "e28a033f1a204fab",
+  "active": "311548e8c05f4f5f",
   "lastOpenFiles": [
-    "Projects/WTA.md",
-    "Projects/WTA pxe.md",
+    "School (incomplete)/Object Oriented Design/UML Diagrams/-uml class diagram start tab.md",
+    "School (incomplete)/Object Oriented Design/-Object Oriented Design start tab.md",
+    "School (incomplete)/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
+    "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
+    "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 3 Observer.md",
+    "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 8 Template Method.md",
+    "Computer Science and Engineering/-Computer Science and Engineering start tab.md",
     "_Root.md",
+    "-General Information/-General Information.md",
+    "-General Information/Using Obsidian to Github Repo Syncing.md",
+    "Projects/WTA pxe.md",
+    "Projects/WTA.md",
     "School (incomplete)/Computer Systems II, Organization/7-9 13 Processes/13 Daemon Processes/-Daemon Processes start tab.md",
     "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/Thread Identification in UNIX.md",
     "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/-Threads start tab.md",
@@ -195,12 +200,6 @@
     "School (incomplete)/Computer Systems II, Organization/11 12 Threading/11 Threads/Definition, Concurrency, Parallel and Distributed.md",
     "School (incomplete)/Computer Systems II, Organization/11 12 Threading/-Threading and Thread Control start tab.md",
     "School (incomplete)/Computer Systems II, Organization/-Computer Systems 2, UNIX Environment, C Standard IO, Processes, Signals, and Threading start tab.md",
-    "Computer Science and Engineering/-Computer Science and Engineering start tab.md",
-    "-General Information/-General Information.md",
-    "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/Design Pattern 3 Observer.md",
-    "School (incomplete)/Object Oriented Design/Design Patterns/3 Behavioral/-Behavioral Design Patterns start tab.md",
-    "School (incomplete)/Object Oriented Design/Design Patterns/-Design Patterns start tab.md",
-    "School (incomplete)/Object Oriented Design/-Object Oriented Design start tab.md",
     "Game Stuff/Space Engineers/Standardization/SE Key Binds.md",
     "Game Stuff/Space Engineers/Standardization/Pasted image 20260611191427.png",
     "Game Stuff/Minecraft/Information on Minecraft World, Survival Main.md",
@@ -209,10 +208,7 @@
     "Game Stuff/Space Engineers/Using Head Tracking in Space Engineers.md",
     "Game Stuff/Space Engineers/-Space Engineers (1 and 2) start tab.md",
     "-General Information/Using Obsidian.md",
-    "-General Information/Using Obsidian to Github Repo Syncing.md",
     "-General Information/Computer Information/Main PC Tower Information/cjtower Port Information.md",
-    "-General Information/Computer Information/-Computer Information start tab.md",
-    "-General Information/Computer Information/Main PC Tower Information/cjlaptop Information.md",
     "-General Information/Computer Information/Main PC Tower Information",
     "-General Information/Computer Information",
     "Game Stuff/Minecraft",
