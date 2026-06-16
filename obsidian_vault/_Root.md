@@ -7,7 +7,10 @@ There is a [[-General Information|General Information]] note to get you started 
 
 The [[-Computer Science and Engineering start tab|Computer Science and Engineering]] note and its links contain a mix of my CS&CE class notes along with CS&CE related personal projects.
 
+[[-School start tab]]
+
 The [[-Projects start tab|Projects]] note contains information on current or past project.
+
 
 
 The [[-Games start tab|Games]] section is just to store information on / about games I like to play.

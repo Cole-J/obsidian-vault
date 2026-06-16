@@ -1,7 +1,7 @@
 
 Static variables or methods are declared using the 'static' keyword. Static variables or methods belong to the class as a whole and not an individual object. They are especially global variables within the scope of each instance of the class, and are useful when trying to pass information between classes of the same family.
 
-```
+```java
 // x is static, and shared by all instances of x's parent class
 public static int x;
 ```
@@ -10,7 +10,7 @@ While static variables are useful for passing information, static methods are co
 
 It also allows for the method to be invoked without its object.
 
-```
+```java
 OBJ obj = new OBJ();
 
 // consider the method m(), and the static method sm()

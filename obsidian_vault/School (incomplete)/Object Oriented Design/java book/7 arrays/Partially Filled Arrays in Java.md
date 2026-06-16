@@ -1,0 +1,2 @@
+
+Remember that not all elements of the array have to be defined. If you are not sure if the elements in an array are defined or only declared, make sure to check before using the element. The reference will be null if it is only declared, as memory has been allocated but not yet filled / used.

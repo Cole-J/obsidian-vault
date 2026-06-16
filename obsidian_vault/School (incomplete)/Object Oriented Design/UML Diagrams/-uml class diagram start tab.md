@@ -1,4 +1,7 @@
 
+combine with object relations
+
+
 Unified Modeling Language
 
 a way to visualize architecture, design, and implementation of complex software systems

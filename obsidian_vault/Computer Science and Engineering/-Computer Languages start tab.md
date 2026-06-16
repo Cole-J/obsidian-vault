@@ -4,4 +4,3 @@
 
 [[-Using html, css, javascript start tab]]
 
-[[-Using GNU make for Terminal Shorthand's]]

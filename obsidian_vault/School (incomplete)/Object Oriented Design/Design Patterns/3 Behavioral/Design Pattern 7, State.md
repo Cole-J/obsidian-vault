@@ -15,7 +15,7 @@ The ConcreteState (representing multiple) represents the different states that t
 
 The Client will primarily interact with the Context class, with the Contexts internal state generally hidden from it unless fetched.
 
-A key difference from the [[Design Pattern 4 Strategy|Strategy]] pattern is that the states are interacted with primarily by the Context rather than the Client. In the strategy pattern, the Client will give the Context a Strategy to use for a problem, while in State the Context will have an internal state that changes as the Client interacts with the Context. 
+A key difference from the [[Design Pattern 4, Strategy|Strategy]] pattern is that the states are interacted with primarily by the Context rather than the Client. In the strategy pattern, the Client will give the Context a Strategy to use for a problem, while in State the Context will have an internal state that changes as the Client interacts with the Context. 
 
 This causes each strategy to be unaware of another, as the Client or Context will decide on one to use for a specific task, while each state often holds references to another in order to transition.
 
