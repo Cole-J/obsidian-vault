@@ -19,3 +19,4 @@ media-access (able to access media drives)
 restricted-access (no write privileges)
 ssh-access (able to use ssh, if guest is logged into server no further ssh)
 newuser-access (can create a new user)
+	make a script that creates a new user, and only this can access it
