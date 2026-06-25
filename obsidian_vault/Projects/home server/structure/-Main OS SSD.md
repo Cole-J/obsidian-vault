@@ -20,3 +20,12 @@ restricted-access (no write privileges)
 ssh-access (able to use ssh, if guest is logged into server no further ssh)
 newuser-access (can create a new user)
 	make a script that creates a new user, and only this can access it
+
+
+on main ssd
+
+filepath for server root or admin related scripts and data, only those in sudo group have access
+OS/srvsys/newuser/newuser.sh
+
+
+
