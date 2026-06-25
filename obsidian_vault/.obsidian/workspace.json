@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c84ad9cb7aea4bea",
+        "id": "15281b881d1d512d",
         "type": "tabs",
         "children": [
           {
-            "id": "4adac7bb7846dace",
+            "id": "60b4393d390435ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Stuff/HOTAS/X52/Logitech X52 Hotas Software.md",
+                "file": "Projects/home server/structure/-Main OS SSD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logitech X52 Hotas Software"
+              "title": "-Main OS SSD"
             }
           }
         ]
@@ -183,9 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "4adac7bb7846dace",
+  "active": "60b4393d390435ff",
   "lastOpenFiles": [
+    "Projects/home server/what.md",
+    "Projects/home server/structure/-Main OS SSD.md",
+    "Projects/home server/structure",
+    "Projects/WTA/WTA.md",
+    "Projects/home server",
     "Game Stuff/HOTAS/X52/Logitech X52 Hotas Software.md",
+    "Projects/WTA",
     "Game Stuff/HOTAS/X52",
     "Game Stuff/HOTAS",
     "School (incomplete)/Object Oriented Design/java book/-Using Java (for OOD) start tab.md",
@@ -210,18 +216,12 @@
     "School (incomplete)/Object Oriented Design/java book/9 exception handling/predefined exceptions in java.md",
     "School (incomplete)/Object Oriented Design/java book/9 exception handling/exceptions in java.md",
     "School (incomplete)/Object Oriented Design/java book/9 exception handling/exception handling using try catch in java.md",
-    "School (incomplete)/Object Oriented Design/java book/9 exception handling/defining your own exceptions in java.md",
-    "School (incomplete)/Object Oriented Design/java book/9 exception handling/-exception handling start tab.md",
-    "School (incomplete)/Object Oriented Design/java book/8 inheritance, polymorphism, inferfaces/the Object class in java.md",
     "Game Stuff/Abiotic Factor",
     "Game Stuff/Space Engineers/Standardization/Pasted image 20260611191427.png",
     "Game Stuff/Space Engineers/Standardization",
     "-General Information/Computer Information/Main PC Tower Information",
     "-General Information/Computer Information",
     "Game Stuff/Minecraft",
-    "Game Stuff/Head Tracking in Games",
-    "Game Stuff/Space Engineers/SE2",
-    "Game Stuff/Space Engineers/SE1",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/Pictures/10fig13.jpg",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/Pictures/10fig16.jpg",
     "School (incomplete)/Computer Systems II, Organization/10 Signals/unused pics/10fig03.jpg",
