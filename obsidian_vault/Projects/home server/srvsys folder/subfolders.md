@@ -1,0 +1,3 @@
+
+/srvsys/newuser
+/srvsys/info
