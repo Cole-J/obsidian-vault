@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/home server/wiping old drives.md",
+                "file": "Projects/home server/disk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wiping old drives"
+              "title": "disk"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "776a49b04401ee0e",
   "lastOpenFiles": [
-    "Projects/home server/programs/programs.md",
     "Projects/home server/wiping old drives.md",
+    "Projects/home server/disk.md",
+    "Projects/home server/programs/programs.md",
     "Projects/home server/storage web structure/p-NAS all.md",
     "Projects/home server/storage web structure/r-NAS media.md",
     "Projects/home server/storage web structure/r-NAS software.md",
@@ -216,7 +217,6 @@
     "Projects/home server/programs",
     "Projects/home server/users and groups",
     "Projects/home server/structure/old/-Main OS SSD.md",
-    "Projects/home server/structure/old/8tb HDD (or just general HDD storage).md",
     "Projects/home server/structure/old",
     "Projects/home server/storage disk structure",
     "Projects/home server",
